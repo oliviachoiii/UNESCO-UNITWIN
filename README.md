@@ -4,6 +4,9 @@ Asssisted "App develeopment with React Native" education for female UGM students
 Used Tech Stack: React Native (useState, Navigating), Typescript\
 
 
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
